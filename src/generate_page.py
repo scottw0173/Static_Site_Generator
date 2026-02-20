@@ -16,8 +16,11 @@ def generate_page(from_path, template_path, dest_path,basepath):
 
     full_html = template.replace("{{ Title }}", title)
     full_html = full_html.replace("{{ Content }}", content_html)
-    full_html = full_html.replace('href="/','href="{basepath}')
-    full_html = full_html.replace('src="/','src="{basepath}')
+    
+    if basepath != '/':
+        basepath = basepath.rstrip("/")    
+    full_html = full_html.replace('href="/', f'href="{basepath}/')
+    full_html = full_html.replace('src="/', f'src="{basepath}/')
 
     dest_dir = os.path.dirname(dest_path)
     if dest_dir:
