@@ -1,8 +1,8 @@
 from textnode import TextNode, TextType
+from copy_full_directory import copy_complete_dir
 
 def main():
-    new_node = TextNode("THIS IS ONLY A TEST", TextType.LINK, 'https://www.boot.dev')
-    print(new_node)
+    copy_complete_dir('./static','./public')
 
 
 
