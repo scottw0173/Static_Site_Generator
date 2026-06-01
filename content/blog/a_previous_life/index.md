@@ -39,16 +39,16 @@ with employees, with the animals, and with the reefs themselves.
 ## The Coral Farm
 
 <div class="gallery">
-![](/images/previous-life/Farm_First_Corals.jpeg)
-![](/images/previous-life/EarlyFragFarm.jpeg)
-![](/images/previous-life/LagoonTopView.HEIC)
+![](/images/previous-life/Farm_First_Corals.jpg)
+![](/images/previous-life/EarlyFragFarm.jpg)
+![](/images/previous-life/LagoonTopView.jpg)
 </div>
 
 **Left:** The test corals for a new system in the Farm **Middle:** Same farm tank one month later **Right:** Lagoon-style farm aquarium getting quite full
 
 <div class="gallery">
-![](/images/previous-life/OldFarmPhoto.jpeg)
-![](/images/previous-life/BestSymphyllia.jpeg)
+![](/images/previous-life/OldFarmPhoto.jpg)
+![](/images/previous-life/BestSymphyllia.jpg)
 ![](/images/previous-life/BugattiChalice.jpg)
 </div>
 

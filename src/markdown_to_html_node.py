@@ -52,8 +52,14 @@ def markdown_to_html_node(markdown):
             html_nodes.append(pre_node)
 
         elif block_type == BlockType.HTML:
-            html_nodes.append(LeafNode(None, block))
-
+            processed = block
+            import re
+            processed = re.sub(
+                r'!\[([^\]]*)\]\(([^)]+)\)',
+                r'<img src="\2" alt="\1"/>',
+                processed
+            )
+            html_nodes.append(LeafNode(None, processed))
         else:
             raise ValueError(f"Unknown block type: {block_type}")
 
