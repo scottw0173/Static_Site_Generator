@@ -1,46 +1,38 @@
-# Tolkien Fan Club
+# Scott Warner
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![Scott Warner](/images/PhotoOfSelf.jpg)
 
-Here's the deal, **I like Tolkien**.
+Operations professional and aspiring software developer.
+I spent six years building and running an aquarium installation and maintenance business in the OKC metro area, Madness Reefing. Somewhere along the way discovered that
+the part I loved most was the systems thinking: recurring workflows, client operations,
+and figuring out how to make complex things run smoothly. Now I'm building the
+technical skills to apply those skills in tech.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+## Explore
 
-## Blog posts
+[A Previous Life](/blog/a_previous_life) | [A Bit About Me](/blog/about_me) | [Contact](/contact)
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+## Skills
 
-## Reasons I like Tolkien
+**Languages & Tools:** Python, Go, Bash, Git, Linux, SQL, AWS, DOCKER, JavaScript
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+**Currently Learning:** Data structures and algorithms, CI/CD pipelines, REST APIs
 
-## My favorite characters (in order)
+**Operational Skills:** SOP and Knowledge-base authoring, recurring service management, client
+relationship management, cost-benefit analysis
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+## Current Projects
 
-Here's what `elflang` looks like (the perfect coding language):
+- **Static Site Generator** — This site. Built in Python, converts Markdown to HTML, hosted on GitHub Pages.
+- **AI Agent** — A conversational agent built on the Gemini API.
+- **IP Checker** — Queries AbuseIPDB to flag suspicious IP addresses.
+- **HTTPSever** — Local network server built in Go with full REST API, authentication, and authorization.
 
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+[View my work on GitHub](https://github.com/scottw0173)
 
-Want to get in touch? [Contact me here](/contact).
+## Get In Touch
 
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+Interested in data analyst, operations, Jr. Dev, and technical support roles. Always happy
+to talk shop.
+
+[Contact me](//contact)

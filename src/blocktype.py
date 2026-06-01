@@ -7,6 +7,7 @@ class BlockType(Enum):
     QUOTE = "quote"
     UNORDERED_LIST = "unordered_list"
     ORDERED_LIST = "ordered_list"
+    HTML = "html"
 
 
 def block_to_block_type(block: str) -> BlockType:
@@ -41,6 +42,10 @@ def block_to_block_type(block: str) -> BlockType:
             break
     if is_ordered:
         return BlockType.ORDERED_LIST
+    
+    # Detection for Raw HTML
+    if block.startswith("<"):
+        return BlockType.HTML
 
     return BlockType.PARAGRAPH
     

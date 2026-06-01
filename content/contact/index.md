@@ -1,9 +1,9 @@
-# Contact the Author
+# Contact
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
+Reach out with any questions I can help with — including aquarium ones!
 
-`555-555-5555`
+[swarner5937@gmail.com](mailto:swarner5937@gmail.com)
 
-**"Váya márië."**
+[LinkedIn — Scott Warner](https://www.linkedin.com/in/scott-warner-8972093a3/)

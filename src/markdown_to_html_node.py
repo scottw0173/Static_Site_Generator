@@ -51,6 +51,9 @@ def markdown_to_html_node(markdown):
             pre_node = ParentNode("pre", [code_node])
             html_nodes.append(pre_node)
 
+        elif block_type == BlockType.HTML:
+            html_nodes.append(LeafNode(None, block))
+
         else:
             raise ValueError(f"Unknown block type: {block_type}")
 
