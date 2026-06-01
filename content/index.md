@@ -2,7 +2,7 @@
 
 ![Scott Warner](/images/PhotoOfSelf.jpg)
 
-Operations professional and aspiring software developer.
+Operations professional and aspiring data/software engineer.
 I spent six years building and running an aquarium installation and maintenance business in the OKC metro area, Madness Reefing. Somewhere along the way discovered that
 the part I loved most was the systems thinking: recurring workflows, client operations,
 and figuring out how to make complex things run smoothly. Now I'm building the
