@@ -34,5 +34,3 @@ relationship management, cost-benefit analysis
 
 Interested in data analyst, operations, Jr. Dev, and technical support roles. Always happy
 to talk shop.
-
-[Contact me](//contact)

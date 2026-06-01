@@ -18,7 +18,7 @@ that reminded me why any of it matters. The pets are non-negotiable.
 
 <div class="gallery">
 ![](/images/about-me/Marcela.jpg)
-![](/images/about-me/pet-e.jpg)
+![](/images/about-me/Patricia.jpg)
 ![](/images/about-me/Nigel.jpg)
 </div>
 
@@ -35,12 +35,12 @@ that reminded me why any of it matters. The pets are non-negotiable.
 **Left:** An incredible collection of fish **Middle:** When you're a good influence on your friends **Right:** This handsome devil actually bit my friend, Derek
 
 <div class="gallery">
-![](/images/about-me/Cliffside.jpg)
+![](/images/about-me/CliffSide.jpg)
 ![](/images/about-me/Balandra2.jpg)
 ![](/images/about-me/ColoradoHiking.jpg)
 </div>
 
-**Left:** I like the climb **Middle:** A top beach in the world for a reason **Right:** Nothing beats the smell of a pine forest
+**Left:** I appreciate a climb **Middle:** Easy to see why this is top 10 beach in the world **Right:** Nothing beats the smell of a pine forest
 
 ## The Wagons
 

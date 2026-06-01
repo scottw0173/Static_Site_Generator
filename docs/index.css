@@ -130,7 +130,7 @@ img {
   background: #0e1f2e;
 }
 
-article > div > p:first-child img {
+article > div > p:nth-child(2) img {
   display: block;
   margin-left: auto;
   margin-right: auto;
