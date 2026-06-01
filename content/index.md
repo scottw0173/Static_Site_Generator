@@ -11,6 +11,7 @@ technical skills to apply those skills in tech.
 ## Explore
 
 [A Previous Life](/blog/a_previous_life) | [A Bit About Me](/blog/about_me) 
+
 ## Skills
 
 **Languages & Tools:** Python, Go, Bash, Git, Linux, SQL, AWS, DOCKER, JavaScript
