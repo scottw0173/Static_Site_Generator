@@ -23,10 +23,11 @@ relationship management, cost-benefit analysis
 
 ## Current Projects
 
+- **JobFinder** — Automated job pipeline built in Go on AWS Lambda. Pulls listings from multiple job-board APIs, grades them against my resume with the Gemini API, and stores ranked results in DynamoDB. Runs itself daily.
 - **Static Site Generator** — This site. Built in Python, converts Markdown to HTML, hosted on GitHub Pages.
 - **AI Agent** — A conversational agent built on the Gemini API.
 - **IP Checker** — Queries AbuseIPDB to flag suspicious IP addresses.
-- **HTTPSever** — Local network server built in Go with full REST API, authentication, and authorization.
+- **HTTPServer** — Local network server built in Go with full REST API, authentication, and authorization.
 
 [View my work on GitHub](https://github.com/scottw0173)
 
